@@ -33,7 +33,10 @@
   },
   {
     "category": "Encoders / Decoders",
-    "tools": [{ "path": "/base64", "title": "Base64 Encode/Decode" }]
+    "tools": [
+      { "path": "/base64", "title": "Base64 Encode/Decode" }, 
+      { "path": "/md5", "title": "MD5 Hash" }
+    ]
   },
   {
     "category": "Misc",
